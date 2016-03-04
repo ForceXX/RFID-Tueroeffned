@@ -11,6 +11,7 @@
 #include <VirtualWire.h>
 #include <string.h>
 
+//Paste in valid keys
 byte toCheck[2][4] = { {0x00, 0x00, 0x00, 0x00},
 };
 
